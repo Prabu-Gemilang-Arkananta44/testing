@@ -1,3 +1,5 @@
 Matematika SMK :
 1. Eksponen
 2. Logaritma
+3. Persamaan Linier 3 Variabel
+4. Aritmatika
