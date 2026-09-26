@@ -3,3 +3,8 @@ Matematika SMK :
 2. Logaritma
 3. Persamaan Linier 3 Variabel
 4. Aritmatika
+5. Geomteri
+
+Bahasa Pemrograman :
+1. Javascript
+2. Python
